@@ -14,7 +14,7 @@ yes.addEventListener('click', () => {
     con.style.backgroundColor = '#f27b7b';
     con.style.boxShadow = '#d95454 15px 15px 20px inset, #d95454 -15px -15px 20px inset, #cf1e1e 0 0 100px';
     
-    txt.innerHTML = 'Oppsss wla na bawiay haa<br><br>Labas tayo sa free time mo sagot ko na 💖';
+    txt.innerHTML = 'Oppsss wla na bawiay haa<br><br>i can wait mn sus';
     txt.style.color = '#fff';
     txt.style.textShadow = '1px 1px #f44d4d, -1px -1px #f44d4d, 0 0 20px red';
 });
